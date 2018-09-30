@@ -1,2 +1,2 @@
 # jogos
-Um  portaç de noticias sobre jogos
+Um  portal de noticias sobre jogos
